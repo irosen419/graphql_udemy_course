@@ -21,7 +21,8 @@
     {
       "firstName": "Nick",
       "age": 41,
-      "id": "cwZVYJw"
+      "id": "cwZVYJw",
+      "companyId": "1"
     }
   ],
   "companies": [
